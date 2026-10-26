@@ -1,0 +1,1 @@
+Upload CONTENTS of COLD_MIND directory to GitHub repository root (not the directory itself). Then Actions > Build COLD MIND APK > Run workflow. After success download artifact COLD-MIND-debug-APK. This is a debug APK, not a Play Store release. Project is untested; compile errors may require fixes.
